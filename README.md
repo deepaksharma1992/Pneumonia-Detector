@@ -9,21 +9,21 @@ Enter your kaggle credentials by downloading the credentials file from the kaggl
 This project is an classic example on how to use transfer learning with our own Convolutional neural network. We are extending InceptionV3 model by adding our own layers to predict the X-Ray images containing Pneumonia.
 
 Classification models used in this datasets are-
-Transfer Learning 
-CNN
+Transfer Learning, 
+CNN,
 Tensorflow Neural Network
 
 
 
 Techonlogies Used in This Project
 
-Pandas
-Numpy
-Tensorflow
-Keras
-Convolutional Neural Network
-Confusion Matrix
-Matplotlib
+Pandas,
+Numpy,
+Tensorflow,
+Keras,
+Convolutional Neural Network,
+Confusion Matrix,
+Matplotlib,
 InceptionV3 Transfer Learning Model
 
 
